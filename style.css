@@ -1,0 +1,421 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    color: white;
+    overflow: hidden;
+}
+.main {
+    display: flex;
+    height: 100vh;
+}
+.sidebar {
+    background-color: black;
+    width:16%;
+    margin-right: 0.03rem;
+}
+.maincontent {
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 84%;
+    overflow: auto;
+}
+.option {
+    height: 1rem;
+    width: 1rem;
+
+}
+#btn i {
+    cursor: pointer;
+}
+#btn img {
+    cursor: pointer;
+}
+#btn a {
+    text-decoration: none;
+    color: white;
+    padding-left: 1rem;
+}
+.box2 {
+    margin-bottom: 0;
+}
+.logo {
+    margin: 1rem 0.2rem;
+}
+.logo img {
+    margin-right: 2.5rem;
+}
+#btn {
+    margin: 1.5rem 1.5rem 1.5rem 1rem;
+    display: flex;
+    filter: brightness(200%);
+}
+#btn a {
+    font-size: small;
+}
+.logoimg {
+    height: 1.6rem;
+    width: 2.1rem;
+    padding-left: 0.3rem;
+    margin-top: -3.1rem;
+    opacity: 0;
+}
+.explore span {
+    margin-left: -0.2rem;
+}
+.reels img {
+    height: 1.8rem;
+    width: 1.8rem;
+    margin-left: -0.4rem;
+    margin-top: -0.4rem;
+}
+.explore a {
+    margin-top: 0.3rem;
+    margin-left: -0.2rem;
+}
+.reels a {
+    margin-top: 0.1rem;
+    margin-left: -0.2rem;
+}
+.threads img {
+    width: 1.5rem;
+    height: 1.5rem;
+    padding-top: 2.7rem;
+}
+.more a {
+    padding-top: 0.3rem;
+}
+.threads {
+    padding-top: 10.5rem;
+}
+.threads a {
+    padding-top: 3rem;
+    margin-left: -0.4rem;
+}
+.upperpart {
+    display: flex;
+    height: 45px;
+    width: 45px;
+    margin-top: 1.2rem;
+    margin-left: 1.4rem;
+}
+#one,#two,#three,#four,#five,
+#six,#seven,#eight {
+    display: flex;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    border: 2.2px solid rgb(249, 235, 44);
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+.name {
+    font-size: x-small;
+    padding-left: 0.8rem;
+}
+.photo2 .name {
+    padding-top: 0.4rem;
+}
+.profile {
+    height: 25px;
+    width: 25px;
+    margin-top: 0.3rem;
+}
+.rvcj {
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    border: 2.2px solid rgb(49, 236, 49);
+}
+#dot {
+    padding-left: 0.3rem;
+    opacity: 0.6;
+    font-size: large;
+    margin-top: 0.7rem;
+}
+#min {
+    padding-left: 0.2rem;
+    font-size: smaller;
+    padding-top: 0.2rem;
+    opacity: 0.6;
+}
+.card {
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+.content {
+    margin-left: 15rem;
+}
+.insta {
+    height: 25rem;
+    width: 22rem;
+    margin-top: -4.8rem;
+    border-radius: 7px;
+}
+.card-heading {
+    display: flex;
+}
+.card-title {
+    display: flex   ;
+    padding-left: 0.8rem;
+    font-size: 0.8rem;
+    margin-bottom: 4rem;
+}
+.left {
+    display: flex;
+}
+.button {
+    display: flex;
+    margin-top: 0.2rem;
+}
+.save {
+    margin-left: 16rem;
+}
+.comment,
+.share {
+    margin-left: 1rem;
+}
+.num {
+    font-size: x-small;
+    margin-top: 0.5rem;
+    font-weight: 500;
+}
+#light {
+    opacity: 0.6;
+}
+.word {
+    display: flex;
+    margin-top: 0.5rem;
+    font-size: x-small;
+}
+#bold {
+    font-weight: 500;
+}
+.lp {
+    margin-top: 0.5rem;
+    font-size: x-small;
+    opacity: 0.6;
+}
+.add {
+    margin-top: 0.6rem;
+}
+.smile {
+    padding-left: 16rem;
+}
+hr {
+    opacity: 0.3;
+}
+#topheading {
+    font-size: x-small;
+    padding-top: 0.3rem;
+    cursor: pointer;
+}
+#about {
+    padding-left: 11.9rem;
+}
+.about {
+    padding-left: 14.3rem;
+    padding-top: 0.8rem;
+    opacity: 0.9;
+    font-size: small;
+}
+.lastpart {
+    margin-left: 50rem;
+}
+.lastpa {
+    margin-top: 3.4rem;
+    height: 40px;
+    width: 40px;
+}
+.content {
+    margin-left: -38rem;
+}
+#onee,#twoo,#threee,#fourr,#fivee {
+    display: flex;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    border: 3px solid black;
+    margin-left: -0.8rem;
+    margin-top: 0.7rem;
+}
+.photo1 .name {
+    font-size: 0.8rem;
+    margin-left: 1.5rem;
+    margin-top: -2.3rem;
+}
+.abhi {
+    display: flex;
+    width: 5rem;
+    margin-top: -0.5rem;
+}
+.abhi p {
+    font-size: x-small;
+    padding-top: -0.3rem;
+    opacity: 0.6;
+}
+#onee {
+    margin-top: -1.8rem;
+}
+.switch a {
+    font-size: xx-small;
+    color: rgb(41, 134, 201);
+    text-decoration: none;
+}
+.switch {
+    display: flex;
+    margin-left: 8.7rem;
+    margin-top: -1.8rem;
+}
+.suggest {
+    font-size: x-small;
+    opacity: 0.6;
+    width: 10rem;
+    margin-left: -1rem;
+}
+.suggest p {
+    padding-top: 1.5rem;
+}
+.seeall {
+    display: flex;
+    margin-left: 11rem;
+    margin-top: -1.4rem;
+    width: 5rem;
+}
+.seeall a {
+    font-size: xx-small;
+    color: white;
+    text-decoration: none;
+}
+#twoo {
+    margin-top: 0.6rem;
+}
+.arjit, .virat,
+.rohit, .neha {
+    display: flex;
+    width: 8rem;
+    margin-top: -0.5rem;
+}
+.arjit, .virat,
+.rohit, .neha
+p {
+    font-size: xx-small;
+    padding-top: -0.3rem;
+    opacity: 0.6;
+}
+.follow {
+    display: flex;
+    margin-left: 8.8rem;
+    margin-top: -1.8rem;
+    width: 5rem;
+}
+.follow a {
+    font-size: xx-small;
+    color: rgb(41, 134, 201);
+    text-decoration: none;
+}
+#threee, #fourr,
+#fivee {
+    margin-top: 1.5rem;
+}
+.section {
+    width: 15rem;
+    margin-top: 3rem;
+    margin-left: -0.8rem;
+}
+.section, .copy p {
+    font-size: xx-small;
+    font-weight: 100;
+    opacity: 0.6;
+    line-height: 0.3rem;
+}
+.copy {
+    width: 15rem;
+    margin-top: 1.5rem;
+    margin-left: -0.8rem;
+}
+.follow a:hover {
+    color: white;
+}
+.switch a:hover {
+    color: white;
+}
+.seeall a:hover {
+    opacity: 0.5;
+}
+.button i:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+.like i:active{
+    color: red;
+    box-shadow: 2px 2px 10px red;
+}
+@media (max-width:948px) {
+    #btn a {
+        display: none;
+    }
+    .logoimg {
+        opacity: 1;
+    }
+    .logo {
+        opacity: 0;
+    }
+    .sidebar {
+        width: 5%;
+    }
+    .maincontent {
+        width: 95%;
+    }
+    .lastpa {
+        display: none;
+    }
+}
+.share i:active {
+    color: rgb(0, 255, 251);
+    box-shadow: 2px 2px 10px rgb(0, 255, 251);
+}
+.comment i:active {
+    color: rgb(16, 230, 16);
+    box-shadow: 2px 2px 10px rgb(16, 230, 16);
+}
+.hover a:hover {
+    font-weight: 500;
+}
+.threads a:hover {
+    font-weight: 500;
+}
+#photo {
+    transition: transform 0.3s ease-in-out;
+}
+#photo img {
+    transition: transform 0.3s ease-in-out;
+    animation: fadeIn 0.5s ease-in-out;
+}
+#photo .name {
+    transition: opacity 0.3s ease-in-out;
+    animation: fadeIn 0.5s ease-in-out 0.3s;
+}
+#photo:hover {
+    cursor: pointer;
+    transform: scale(1.1); 
+}
+#photo:hover img {
+    transform: scale(1.2); 
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.create {
+    padding-left: 0.1rem;
+}
