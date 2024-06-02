@@ -5,12 +5,14 @@ original Instagram site, with some added custom transitions for a unique user ex
 # Features
 
 Navigation Bar: Includes an Instagram-like header with a logo, search bar, and icons for home, messages, explore, notifications, and profile.
+
 Feed Layout: Displays posts in a grid format similar to Instagram’s feed, including images, user names, captions, and like/comment icons.
 Transitions and Animations: Custom CSS transitions are added to enhance the interactivity and visual appeal.
 
 # Technologies Used
 
 HTML5: For structuring the content on the web pages.
+
 CSS3: For styling the web pages and implementing the custom transitions.
 
 # Installation
@@ -24,9 +26,9 @@ cd Instagram-Clone
 
 # Future Enhancements
 
-Adding JavaScript to enable dynamic interactions (e.g., like and comment functionality).
-Integrating a backend to handle user authentication, posts, and data management.
-Implementing a story feature and direct messaging.
+1. Adding JavaScript to enable dynamic interactions (e.g., like and comment functionality).
+2. Integrating a backend to handle user authentication, posts, and data management.
+3. Implementing a story feature and direct messaging.
 
 # Contributing
 
