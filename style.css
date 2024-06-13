@@ -5,7 +5,6 @@ body {
     background-color: grey;
     color: white;
     overflow: hidden;
-    position:absolute;
 }
 .main {
     display: flex;
